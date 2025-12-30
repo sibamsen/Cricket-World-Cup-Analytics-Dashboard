@@ -1,59 +1,85 @@
-🏏 Cricket World Cup Analytics Dashboard (1975–2023)
+# 🏏 Cricket World Cup Analytics Dashboard (1975–2023)
 
-This project visualizes Cricket World Cup Final results using Google Sheets + Looker Studio.
-It includes insights such as most successful teams, winning trends, runner-up frequency & venue performance.
+A complete data visualization project analyzing **Cricket World Cup Final Results (1975–2023)** using **Google Sheets + Looker Studio**.  
+The dashboard highlights historical match trends, winning margins, most successful teams, venue patterns, and performance insights.
 
-🔗 Live Dashboard Link
+---
 
-▶ Click Here:
+## 🔗 Live Interactive Dashboard
+
+🔗 **View Dashboard:**  
 https://lookerstudio.google.com/reporting/764af23c-5d7f-4d2f-bf0b-b629ca8265a9
 
-📁 Project Files Included
-File	Description
-WorldCup_Data.csv	Clean structured dataset
-Dashboard_Link.txt	Direct link to dashboard
-Screenshots/	Dashboard preview images
-README.md	Project documentation
-📊 Visualizations Included
+---
 
-KPI Cards
+## 📁 Project Repository Structure
 
-Total World Cups
+📦 Cricket-World-Cup-Analytics-Dashboard
+├── WorldCup_Data.csv
+├── Dashboard_Link.txt
+├── Screenshots/
+│ ├── Dashboard_Overall.png
+│ ├── Insights_View.png
+│ └── Charts_Preview.png
+└── README.md
 
-Highest Final Runs
+---
 
-Most Titles by Team
+## 📊 Visualizations Included
 
-Bar Chart — Most Successful Teams
+- **KPI Cards**
+  - Total World Cups Hosted
+  - Most Titles by Team
+  - Highest Final Winning Runs
+- **Bar Chart** – Most Successful Teams
+- **Bar Chart** – Runner-Up Frequency
+- **Line Chart** – Winning Runs Over the Years
+- **India Venue Performance Table**
+- Optional: Year Filter for dynamic view
 
-Bar Chart — Runner-Up Frequency
+---
 
-Line Graph — Winning Runs Over Years
+## 📌 Key Insights
 
-India Venue Performance Table
+| Metric | Result |
+|-------|--------|
+| Most Successful Team | **Australia (6 titles)** |
+| Highest Winning Final Runs | **359 runs in 2003** |
+| India Won World Cup In | **1983 & 2011** |
+| Runner-Up Trends | England, NZ, Sri Lanka repeatedly appear |
+| Trend Pattern | Final winning run margins vary significantly |
 
-📌 Key Insights
-Observation	Result
-Most successful team	Australia (6 titles)
-Highest winning score	359 runs (2003 final)
-India Championships	1983 & 2011
-Common runner-ups	England, New Zealand, Sri Lanka
-🛠 Tools Used
-Tool	Purpose
-Google Sheets	Data cleaning & structuring
-Google Looker Studio	Dashboard & Visualization
-GitHub	Version control & portfolio showcase
-🧪 Future Improvements
+---
 
-Add batsmen & bowler performance metrics
+## 🛠 Tools & Technologies Used
 
-Automated refresh from API
+| Tool | Role |
+|------|------|
+| **Google Sheets** | Data cleaning, structuring, formatting |
+| **Looker Studio** | Dashboard creation & visualization |
+| **GitHub** | Portfolio hosting & version control |
 
-Add match location map visualization
+---
 
-Convert to Power BI/Tableau version
+## 🚀 How to Use This Project
 
-✨ Author
+1. Clone or download the repository
+2. Open `WorldCup_Data.csv` to explore dataset
+3. Click dashboard link to view analytics
+4. Modify sheet → Dashboard auto updates
 
-Sibam Sen
-Data Analyst | Learner | Dashboard Builder
+---
+
+## 🧪 Future Improvements
+
+- Add player stats, strike rate, wickets
+- Stadium weather effect analysis
+- Power BI / Tableau migration
+- API-based auto-refresh
+
+---
+
+## ✨ Author
+
+**Sibam Sen**  
+_Data Analytics & Visualization Enthusiast_  
