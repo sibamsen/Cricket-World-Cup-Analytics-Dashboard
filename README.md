@@ -1,4 +1,7 @@
-![Cricket World Cup Dashboard Screenshot](Cricket_World_Cup_Analysis_Report.pdf)
+<p align="center">
+  <img src="World Cup Insights Dashboard.png" width="800">
+</p>
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/sibamsen/Cricket-World-Cup-Analytics-Dashboard)
 ![GitHub contributors](https://img.shields.io/github/contributors/sibamsen/Cricket-World-Cup-Analytics-Dashboard)
 ![GitHub stars](https://img.shields.io/github/stars/sibamsen/Cricket-World-Cup-Analytics-Dashboard?style=social)
