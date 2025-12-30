@@ -26,10 +26,7 @@ https://lookerstudio.google.com/reporting/764af23c-5d7f-4d2f-bf0b-b629ca8265a9
 📦 Cricket-World-Cup-Analytics-Dashboard
 ├── WorldCup_Data.csv
 ├── Dashboard_Link.txt
-├── Screenshots/
-│ ├── Dashboard_Overall.png
-│ ├── Insights_View.png
-│ └── Charts_Preview.png
+├── World Cup Insights Dashboard.png
 └── README.md
 
 ---
