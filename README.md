@@ -1,3 +1,4 @@
+![Cricket World Cup Dashboard Screenshot](Cricket_World_Cup_Analysis_Report.pdf)
 # 🏏 Cricket World Cup Analytics Dashboard (1975–2023)
 
 A complete data visualization project analyzing **Cricket World Cup Final Results (1975–2023)** using **Google Sheets + Looker Studio**.  
