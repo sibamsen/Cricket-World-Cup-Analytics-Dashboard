@@ -1,12 +1,13 @@
-<p align="center">
-  <img src="World Cup Insights Dashboard.png" width="800">
-</p>
+# 🏏 Cricket World Cup Analytics Dashboard (1975–2023)
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/sibamsen/Cricket-World-Cup-Analytics-Dashboard)
 ![GitHub contributors](https://img.shields.io/github/contributors/sibamsen/Cricket-World-Cup-Analytics-Dashboard)
 ![GitHub stars](https://img.shields.io/github/stars/sibamsen/Cricket-World-Cup-Analytics-Dashboard?style=social)
 
-# 🏏 Cricket World Cup Analytics Dashboard (1975–2023)
+<p align="center">
+  <img src="World Cup Insights Dashboard.png" width="800">
+</p>
+
 
 A complete data visualization project analyzing **Cricket World Cup Final Results (1975–2023)** using **Google Sheets + Looker Studio**.  
 The dashboard highlights historical match trends, winning margins, most successful teams, venue patterns, and performance insights.
